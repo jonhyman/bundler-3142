@@ -1,5 +1,7 @@
 require File.expand_path('../boot', __FILE__)
 
+require 'analytics-ruby'
+
 require 'rails/all'
 
 if defined?(Bundler)
