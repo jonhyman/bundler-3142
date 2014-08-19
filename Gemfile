@@ -6,7 +6,7 @@ gem 'rails', '3.2.13'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-
+gem 'em-resque', :git => 'git@github.com:jonhyman/em-resque.git'
 gem 'aws-sdk'
 
 # Gems used only for assets and not required
