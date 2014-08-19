@@ -111,7 +111,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  analytics-ruby (~> 0.5.2)
+  analytics-ruby
   coffee-rails (~> 3.2.1)
   jquery-rails
   rails (= 3.2.13)
